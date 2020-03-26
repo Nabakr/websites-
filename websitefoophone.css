@@ -1,0 +1,47 @@
+/* head */
+
+.heading{
+   flex-direction: column;
+  
+   
+}
+.heading ul{
+    margin: auto;
+}
+
+
+
+.headerlogo{
+    margin: auto;
+}
+.heading li{
+   font-size: 15px;
+   
+}
+/* .headerlogo img{
+ 
+  
+ 
+} */
+
+/* mid */
+
+
+
+
+/* services */
+.box{
+    flex-direction: column;
+}
+
+
+
+
+
+/* clients */
+
+.logos{
+ flex-wrap: wrap;
+}
+
+/* contacts */
